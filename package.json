@@ -1,0 +1,25 @@
+{
+  "name": "exploder",
+  "version": "0.0.2",
+  "description": "slices gifs into frames",
+  "main": "dist/exploder.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gado704555/exploder-gif"
+  },
+  "keywords": [
+    "gif"
+  ],
+  "author": "cezary",
+  "license": "MIT",
+  "homepage": "https://github.com/gado704555/exploder-gif",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "webpack": "^1.13.1"
+  }
+}
